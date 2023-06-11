@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.25966e7d.css",
-    "main.js": "/static/js/main.73a27e85.js",
+    "main.css": "/static/css/main.196ac7d2.css",
+    "main.js": "/static/js/main.370bc933.js",
     "static/media/loading.gif": "/static/media/loading.c53f7826df4fbd9ce46c.gif",
     "static/media/Full stack dev nextjs.jpg": "/static/media/Full stack dev nextjs.c57935acc319e425fe46.jpg",
     "static/media/SFProDisplay-Light.woff": "/static/media/SFProDisplay-Light.e91a5798f58164838527.woff",
@@ -17,11 +17,11 @@
     "static/media/location-on.svg": "/static/media/location-on.096140a9fa5e6f068756470b4347d60e.svg",
     "static/media/round-mail.svg": "/static/media/round-mail.cbcc83db9011fed8e4792f14b21f8053.svg",
     "static/media/close.svg": "/static/media/close.78ddfc952923e4c4c483c122f935159c.svg",
-    "main.25966e7d.css.map": "/static/css/main.25966e7d.css.map",
-    "main.73a27e85.js.map": "/static/js/main.73a27e85.js.map"
+    "main.196ac7d2.css.map": "/static/css/main.196ac7d2.css.map",
+    "main.370bc933.js.map": "/static/js/main.370bc933.js.map"
   },
   "entrypoints": [
-    "static/css/main.25966e7d.css",
-    "static/js/main.73a27e85.js"
+    "static/css/main.196ac7d2.css",
+    "static/js/main.370bc933.js"
   ]
 }
